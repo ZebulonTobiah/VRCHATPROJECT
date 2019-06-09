@@ -16,9 +16,9 @@ public class PlayerController : MonoBehaviour
     private void Start()
     {
         rb = GetComponent<Rigidbody>();
-        count = 0;
-        SetCountText();
-        winText.text = "";
+        //count = 0;
+        //SetCountText();
+        //winText.text = "";
     }
 
 
@@ -36,27 +36,27 @@ public class PlayerController : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("Pick Up"))
-        {
-            other.gameObject.SetActive(false);
-            count++;
-            SetCountText();
-        }
+        //if (other.gameObject.CompareTag("Pick Up"))
+        //{
+        //    other.gameObject.SetActive(false);
+        //    count++;
+        //    SetCountText();
+        //}
 
-        if (other.gameObject.CompareTag("Death"))
-        {
-            rb.gameObject.SetActive(false);
-        }
+        //if (other.gameObject.CompareTag("Death"))
+        //{
+        //    rb.gameObject.SetActive(false);
+        //}
 
     }
 
-    void SetCountText ()
-    {
-        countText.text = "Count: " + count.ToString();
-        if(count >= 7)
-        {
-            winText.text = "You Win!";
-        }
-    }
+    //void SetCountText ()
+    //{
+    //    countText.text = "Count: " + count.ToString();
+    //    if (count >= 7)
+    //    {
+    //        winText.text = "You Win!";
+    //    }
+    //}
 }
 
