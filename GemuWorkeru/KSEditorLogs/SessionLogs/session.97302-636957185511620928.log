@@ -1,0 +1,55 @@
+2019-06-09 23:09:11.3981 [DEBUG] Validating model...
+2019-06-09 23:09:11.6374 [DEBUG] Model updated
+2019-06-09 23:09:11.6374 [DEBUG] Authenticating with server...
+2019-06-09 23:09:12.0134 [DEBUG] Connected to room. (97302:SceneFusion:SceneFusion)
+2019-06-09 23:09:12.0224 [INFO] Connected to server.
+2019-06-09 23:09:12.0224 [DEBUG] OS : Microsoft Windows NT 10.0.17763.0
+2019-06-09 23:09:12.0224 [DEBUG] Unity Version : 2018.3.14f1
+2019-06-09 23:09:12.0224 [DEBUG] Pro License : False
+2019-06-09 23:09:12.0224 [DEBUG] Platform : WindowsEditor
+2019-06-09 23:09:12.0234 [DEBUG] Build Target : StandaloneWindows64
+2019-06-09 23:09:12.0234 [DEBUG] Scene Fusion version : 1.8.2
+2019-06-09 23:09:12.0234 [DEBUG] Scene Fusion client build : 2
+2019-06-09 23:09:12.0234 [DEBUG] User : leith.merrifield@gmail.com
+2019-06-09 23:09:12.0234 [DEBUG] Waiting for server response
+2019-06-09 23:09:12.1072 [DEBUG] Tier: Scene Fusion - Free, Permissions: 00001400
+2019-06-09 23:09:12.1072 [DEBUG] User Permissions: FFFFFFFF
+2019-06-09 23:09:12.2059 [DEBUG] No stand-in for UnityEngine.LocalizationAsset
+2019-06-09 23:09:12.2059 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-06-09 23:09:12.2059 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-06-09 23:09:12.2059 [DEBUG] No stand-in for UnityEngine.TerrainLayer
+2019-06-09 23:09:12.2069 [DEBUG] No stand-in for UnityEngine.Experimental.VFX.VisualEffectAsset
+2019-06-09 23:09:12.5585 [DEBUG] Loading complete
+2019-06-09 23:10:12.5415 [DEBUG] Disconnecting temporarily to recompile.
+2019-06-09 23:10:12.5415 [DEBUG] Disconnecting from room (97302:SceneFusion:SceneFusion)
+2019-06-09 23:10:12.5435 [INFO] Disconnected from server.
+2019-06-09 23:10:12.5435 [DEBUG] Disconnect. (Duration: 60)
+2019-06-09 23:10:14.6590 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:10:15.0060 [DEBUG] Connecting
+2019-06-09 23:10:15.0280 [DEBUG] Connecting to room (97302:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-06-09 23:10:15.0320 [DEBUG] Guest connection. (Session: 97302)
+2019-06-09 23:10:15.2294 [DEBUG] Validating model...
+2019-06-09 23:10:15.4359 [DEBUG] Model updated
+2019-06-09 23:10:15.4359 [DEBUG] Authenticating with server...
+2019-06-09 23:10:15.6768 [DEBUG] Connected to room. (97302:SceneFusion:SceneFusion)
+2019-06-09 23:10:15.6857 [INFO] Connected to server.
+2019-06-09 23:10:15.6857 [DEBUG] OS : Microsoft Windows NT 10.0.17763.0
+2019-06-09 23:10:15.6857 [DEBUG] Unity Version : 2018.3.14f1
+2019-06-09 23:10:15.6857 [DEBUG] Pro License : False
+2019-06-09 23:10:15.6857 [DEBUG] Platform : WindowsEditor
+2019-06-09 23:10:15.6857 [DEBUG] Build Target : StandaloneWindows64
+2019-06-09 23:10:15.6867 [DEBUG] Scene Fusion version : 1.8.2
+2019-06-09 23:10:15.6867 [DEBUG] Scene Fusion client build : 2
+2019-06-09 23:10:15.6867 [DEBUG] User : leith.merrifield@gmail.com
+2019-06-09 23:10:15.6867 [DEBUG] Waiting for server response
+2019-06-09 23:10:15.7466 [DEBUG] Tier: Scene Fusion - Free, Permissions: 00001400
+2019-06-09 23:10:15.7466 [DEBUG] User Permissions: FFFFFFFF
+2019-06-09 23:10:15.8254 [DEBUG] No stand-in for UnityEngine.LocalizationAsset
+2019-06-09 23:10:15.8254 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-06-09 23:10:15.8254 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-06-09 23:10:15.8254 [DEBUG] No stand-in for UnityEngine.TerrainLayer
+2019-06-09 23:10:15.8254 [DEBUG] No stand-in for UnityEngine.Experimental.VFX.VisualEffectAsset
+2019-06-09 23:10:15.9603 [DEBUG] Loading complete
+2019-06-09 23:10:25.9311 [DEBUG] Disconnecting from room (97302:SceneFusion:SceneFusion)
+2019-06-09 23:10:25.9341 [INFO] Disconnected from server.
+2019-06-09 23:10:25.9341 [DEBUG] Disconnect. (Duration: 73)

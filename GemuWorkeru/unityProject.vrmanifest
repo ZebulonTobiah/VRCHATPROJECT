@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.gemuworkeru.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\My Stuff\\Programming\\Unity\\Vrchat\\trunk\\GemuWorkeru\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "GemuWorkeru [Testing]"
+        }
+      }
+    }
+  ]
+}

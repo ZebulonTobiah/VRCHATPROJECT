@@ -1,3 +1,64 @@
 2019-06-09 22:32:12.5028 [DEBUG] Scene Fusion version 1.8.2-2
 2019-06-09 22:32:12.5133 [INFO] Setting define symbol SCENE_FUSION
 2019-06-09 22:32:15.5191 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 22:53:10.1486 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 22:53:20.7592 [DEBUG] Invalid token sent as part of a web request token. Token = pWAwtnJZ51SnFs5do1RLJHj5JKZOrfcnezArcbIekafffui7cqWpJM74wGme5yM599dIgdZz3LWcytTNdoSDOpSlqC9cDg1Pkgbt6sgolyf8EXojRE1EgR3tJhjclNJ0TjGNUPPeeFh5EojSZ93RdWElYhEi4qGKCd6qoGyf6tLytwWo1H2fN3yxHfkDZmyEkggkyzC9gtnhJSGpXKSBW7D4lOkzi1DEwMwditN5XlhgFGZ7dwapPjWAdo6G9fO
+2019-06-09 22:53:29.7939 [DEBUG] Connecting
+2019-06-09 22:53:29.8128 [DEBUG] Connecting to room (97300:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-06-09 23:00:03.9279 [DEBUG] Sent C:/My Stuff/Programming/Unity/Vrchat/trunk/GemuWorkeru/KSEditorLogs/SessionLogs/session.97300-636957176100891502.log
+2019-06-09 23:00:11.5891 [DEBUG] Connecting
+2019-06-09 23:00:11.5977 [DEBUG] Connecting to room (97301:SceneFusion:SceneFusion) via TCP at roommanager-ec2-18-228-191-46.kinematicsoup.com:21312
+2019-06-09 23:04:54.4120 [DEBUG] Sent C:/My Stuff/Programming/Unity/Vrchat/trunk/GemuWorkeru/KSEditorLogs/SessionLogs/session.97301-636957180116200370.log
+2019-06-09 23:05:10.1773 [DEBUG] Connecting
+2019-06-09 23:05:10.1843 [DEBUG] Connecting to room (97301:SceneFusion:SceneFusion) via TCP at roommanager-ec2-18-228-191-46.kinematicsoup.com:21312
+2019-06-09 23:08:35.4042 [DEBUG] Sent C:/My Stuff/Programming/Unity/Vrchat/trunk/GemuWorkeru/KSEditorLogs/SessionLogs/session.97301-636957183101853274.log
+2019-06-09 23:08:36.3123 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+UnityEditor.GameObjectInspector.ClearPreviewCache () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:201)
+UnityEditor.GameObjectInspector.OnDisable () (at C:/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:189)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2019-06-09 23:08:37.6829 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:09:00.0994 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:09:11.1391 [DEBUG] Connecting
+2019-06-09 23:09:11.1591 [DEBUG] Connecting to room (97302:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-06-09 23:10:25.9531 [DEBUG] Sent C:/My Stuff/Programming/Unity/Vrchat/trunk/GemuWorkeru/KSEditorLogs/SessionLogs/session.97302-636957185511620928.log
+2019-06-09 23:10:34.3629 [DEBUG] Connecting
+2019-06-09 23:10:34.3729 [DEBUG] Connecting to room (97302:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-06-09 23:11:56.3882 [DEBUG] Sent C:/My Stuff/Programming/Unity/Vrchat/trunk/GemuWorkeru/KSEditorLogs/SessionLogs/session.97302-636957186343739560.log
+2019-06-09 23:11:59.3501 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:11:59.4109 [DEBUG] Play mode: True, sync in play mode: True
+2019-06-09 23:12:04.7563 [DEBUG] Play mode: False
+2019-06-09 23:12:13.3904 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:12:13.4507 [DEBUG] Play mode: True, sync in play mode: True
+2019-06-09 23:12:21.6352 [DEBUG] Play mode: False
+2019-06-09 23:13:45.4621 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:15:12.2848 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:15:25.8257 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:15:25.8941 [DEBUG] Play mode: True, sync in play mode: True
+2019-06-09 23:15:38.4831 [DEBUG] Play mode: False
+2019-06-09 23:15:50.7108 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:15:50.7826 [DEBUG] Play mode: True, sync in play mode: True
+2019-06-09 23:16:00.9009 [DEBUG] Play mode: False
+2019-06-09 23:16:07.8223 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:16:07.8851 [DEBUG] Play mode: True, sync in play mode: True
+2019-06-09 23:16:13.5534 [DEBUG] Play mode: False
+2019-06-09 23:18:00.4764 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:18:00.5523 [DEBUG] Play mode: True, sync in play mode: True
+2019-06-09 23:18:25.4057 [DEBUG] Play mode: False
+2019-06-09 23:18:46.6725 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:18:46.7433 [DEBUG] Play mode: True, sync in play mode: True
+2019-06-09 23:19:00.3082 [DEBUG] Play mode: False
+2019-06-09 23:21:17.9061 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:21:17.9750 [DEBUG] Play mode: True, sync in play mode: True
+2019-06-09 23:21:23.3208 [DEBUG] Play mode: False
+2019-06-09 23:22:07.9728 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:22:08.0426 [DEBUG] Play mode: True, sync in play mode: True
+2019-06-09 23:22:08.9617 [DEBUG] Play mode: False
+2019-06-09 23:22:15.9025 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:22:15.9753 [DEBUG] Play mode: True, sync in play mode: True
+2019-06-09 23:22:32.9375 [DEBUG] Play mode: False
+2019-06-09 23:23:26.9864 [DEBUG] Scene Fusion version 1.8.2-2
+2019-06-09 23:23:57.5475 [DEBUG] Connecting
+2019-06-09 23:23:57.5654 [DEBUG] Connecting to room (97302:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
